@@ -1,4 +1,11 @@
 {
+	"name": "swc-playground",
+	"description": "swc playground",
+	"scripts": {
+		"build": "next build",
+		"dev": "next dev",
+		"start": "next start"
+	},
 	"dependencies": {
 		"@chakra-ui/react": "2.8.2",
 		"@emotion/react": "11.13.3",
@@ -17,7 +24,6 @@
 		"swr": "2.2.5",
 		"ts-results": "3.3.0"
 	},
-	"description": "swc playground",
 	"devDependencies": {
 		"@gplane/tsconfig": "6.2.0",
 		"@swc/wasm-typescript-esm": "1.7.28",
@@ -28,17 +34,11 @@
 		"tsx": "4.19.1",
 		"undici": "6.19.8"
 	},
-	"name": "swc-playground",
 	"pnpm": {
 		"peerDependencyRules": {
 			"ignoreMissing": [
 				"@babel/core"
 			]
 		}
-	},
-	"scripts": {
-		"build": "next build",
-		"dev": "next dev",
-		"start": "next start"
 	}
 }
