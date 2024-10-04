@@ -1,10 +1,10 @@
 {
 	"dependencies": {
-		"@chakra-ui/react": "2.9.3",
+		"@chakra-ui/react": "2.9.4",
 		"@emotion/react": "11.13.3",
 		"@emotion/styled": "11.13.0",
 		"@monaco-editor/react": "4.6.0",
-		"framer-motion": "11.9.0",
+		"framer-motion": "11.11.1",
 		"jotai": "2.10.0",
 		"js-base64": "3.7.7",
 		"jsonc-parser": "3.3.1",
