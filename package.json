@@ -1,10 +1,10 @@
 {
 	"dependencies": {
-		"@chakra-ui/react": "3.0.0",
+		"@chakra-ui/react": "3.0.1",
 		"@emotion/react": "11.13.3",
 		"@emotion/styled": "11.13.0",
 		"@monaco-editor/react": "4.6.0",
-		"framer-motion": "11.11.9",
+		"framer-motion": "11.11.10",
 		"jotai": "2.10.1",
 		"js-base64": "3.7.7",
 		"jsonc-parser": "3.3.1",
@@ -20,12 +20,12 @@
 	"description": "swc playground",
 	"devDependencies": {
 		"@gplane/tsconfig": "6.2.0",
-		"@swc/wasm-typescript-esm": "1.7.39",
-		"@types/node": "22.7.9",
+		"@swc/wasm-typescript-esm": "1.7.40",
+		"@types/node": "22.8.1",
 		"@types/pako": "2.0.3",
 		"@types/semver": "7.5.8",
-		"dprint": "0.47.4",
-		"tsx": "4.19.1",
+		"dprint": "0.47.5",
+		"tsx": "4.19.2",
 		"undici": "6.20.1"
 	},
 	"name": "swc-playground",
