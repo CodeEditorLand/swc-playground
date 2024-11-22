@@ -20,7 +20,7 @@
 	"description": "swc playground",
 	"devDependencies": {
 		"@gplane/tsconfig": "6.2.0",
-		"@swc/wasm-typescript-esm": "1.9.2",
+		"@swc/wasm-typescript-esm": "1.9.3",
 		"@types/node": "22.9.1",
 		"@types/pako": "2.0.3",
 		"@types/semver": "7.5.8",
