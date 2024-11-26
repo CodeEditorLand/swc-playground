@@ -1,6 +1,6 @@
 {
 	"dependencies": {
-		"@chakra-ui/react": "3.2.0",
+		"@chakra-ui/react": "3.2.1",
 		"@emotion/react": "11.13.5",
 		"@emotion/styled": "11.13.5",
 		"@monaco-editor/react": "4.6.0",
@@ -21,7 +21,7 @@
 	"devDependencies": {
 		"@gplane/tsconfig": "6.2.0",
 		"@swc/wasm-typescript-esm": "1.9.3",
-		"@types/node": "22.9.1",
+		"@types/node": "22.10.0",
 		"@types/pako": "2.0.3",
 		"@types/semver": "7.5.8",
 		"dprint": "0.47.5",
