@@ -1,6 +1,6 @@
 {
 	"dependencies": {
-		"@chakra-ui/react": "3.2.2",
+		"@chakra-ui/react": "3.2.3",
 		"@emotion/react": "11.13.5",
 		"@emotion/styled": "11.13.5",
 		"@monaco-editor/react": "4.6.0",
