@@ -19,8 +19,8 @@
 	},
 	"description": "swc playground",
 	"devDependencies": {
+		"@codeeditorland/wasm-typescript-esm": "1.10.0",
 		"@gplane/tsconfig": "6.2.0",
-		"@swc/wasm-typescript-esm": "1.10.0",
 		"@types/node": "22.10.1",
 		"@types/pako": "2.0.3",
 		"@types/semver": "7.5.8",
@@ -28,7 +28,7 @@
 		"tsx": "4.19.2",
 		"undici": "7.1.0"
 	},
-	"name": "swc-playground",
+	"name": "@codeeditorland/playground",
 	"pnpm": {
 		"peerDependencyRules": {
 			"ignoreMissing": [
