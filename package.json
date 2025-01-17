@@ -7,7 +7,7 @@
 		"start": "next start"
 	},
 	"dependencies": {
-		"@chakra-ui/react": "3.3.1",
+		"@chakra-ui/react": "3.3.3",
 		"@emotion/react": "11.14.0",
 		"@emotion/styled": "11.14.0",
 		"@monaco-editor/react": "4.6.0",
@@ -27,12 +27,12 @@
 	"devDependencies": {
 		"@codeeditorland/wasm-typescript-esm": "0.0.1",
 		"@gplane/tsconfig": "6.2.0",
-		"@types/node": "22.10.6",
+		"@types/node": "22.10.7",
 		"@types/pako": "2.0.3",
 		"@types/semver": "7.5.8",
 		"dprint": "0.48.0",
 		"tsx": "4.19.2",
-		"undici": "7.2.1"
+		"undici": "7.2.3"
 	},
 	"pnpm": {
 		"peerDependencyRules": {
