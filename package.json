@@ -27,7 +27,7 @@
 	"devDependencies": {
 		"@codeeditorland/wasm-typescript-esm": "0.0.1",
 		"@gplane/tsconfig": "6.2.0",
-		"@types/node": "22.10.9",
+		"@types/node": "22.10.10",
 		"@types/pako": "2.0.3",
 		"@types/semver": "7.5.8",
 		"dprint": "0.48.0",
